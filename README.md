@@ -2,4 +2,10 @@
  INFORMATION SYSTMES MS. Northeastern Univeristy
  
  Results of LAB 1 
-![Screenshot 2024-02-25 003051](https://github.com/Koti-Baddam3/Java-5100/assets/143991111/7a76205d-8d1c-456f-bd3d-d6c1898e1dbd)
+ 
+Part A 
+![image](https://github.com/Koti-Baddam3/Java-5100/assets/143991111/989d1ed2-1cf7-4a2d-861d-20eb69fa1c7d)
+
+Part B
+![image](https://github.com/Koti-Baddam3/Java-5100/assets/143991111/65cbdea4-8952-4aa4-ad50-be8b868dd1e5)
+
